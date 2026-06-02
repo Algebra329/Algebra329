@@ -2,9 +2,9 @@
 
 # Robiu Olalere
 
-**Machine Learning Engineer · AI Builder · Research Enthusiast · Microsoft Learn Student Ambassador**
+**Startup ML Engineer · Applied AI Engineer · Future Research Engineer**
 
-Building intelligent systems for real-world impact.
+*Building intelligent systems that solve real business problems.*
 
 ![Profile Views](https://komarev.com/ghpvc/?username=Algebra329&label=Profile%20Views&color=0e75b6&style=flat)
 
@@ -14,56 +14,102 @@ Building intelligent systems for real-world impact.
 
 ## 👋 Introduction
 
-I'm a **Machine Learning Engineer** and final-year Computer Science undergraduate designing intelligent systems that convert data into actionable intelligence and scalable AI products.
+I build intelligent systems that solve real business problems using Machine Learning, Artificial Intelligence, and Data Science.
 
-My work spans **Machine Learning, Deep Learning, Generative AI, Graph Neural Networks, and Financial Intelligence** — taking ideas from research all the way to production-ready systems.
+My work focuses on transforming research ideas into practical, scalable products across **financial intelligence, fraud detection, healthcare AI, lead generation, and intelligent automation**. I enjoy working at the intersection of machine learning, software engineering, and product thinking — turning complex datasets into solutions that create measurable impact.
 
-My journey started at an NGO where I trained individuals in desktop publishing and digital skills. That foundation evolved into a focused engineering path centered on AI systems, research-driven development, and mentoring the next generation of AI practitioners.
+My journey started at an NGO where I trained individuals in desktop publishing and digital skills. That foundation evolved into a focused engineering path: building AI-powered applications, conducting applied research, and mentoring the next wave of AI practitioners.
 
 ---
 
-## 🚀 Current Focus
+## 🚀 What I Build
 
-- AI-powered Lead Intelligence Systems
-- Blockchain Fraud Detection using Graph Neural Networks
-- Intelligent Resume Screening and Talent Matching
-- Financial Risk Assessment and Credit Intelligence Models
-- Agentic AI and LLM-Powered Applications
-- End-to-End MLOps and AI Deployment Pipelines
+**Financial Intelligence Systems**
+AI-powered solutions for credit risk assessment, fraud detection, and financial decision-making for emerging markets.
+
+**AI Products**
+End-to-end machine learning applications that automate workflows, improve efficiency, and generate actionable insights.
+
+**Intelligent Data Systems**
+Systems that extract value from structured and unstructured data using NLP, deep learning, and predictive analytics.
+
+**Research-Driven Solutions**
+Applying emerging techniques — Graph Neural Networks, Explainable AI, Generative AI — to real-world challenges.
 
 ---
 
 ## 🏆 Featured Projects
 
-### 🤖 NaijaLeads AI
-AI-driven lead generation and business intelligence platform for key Nigerian industries — Manufacturing, Healthcare, Telecommunications, Real Estate, Banking, and Oil & Gas.
+### 💳 FinFlow AI
+**[github.com/Algebra101/FinFlowAi](https://github.com/Algebra101/FinFlowAi)**
 
-**Highlights:** Lead scoring intelligence · Industry-specific insights · AI-powered business discovery  
-**Stack:** `Python` `FastAPI` `LLMs` `Vector Search` `Machine Learning`
+Intelligent Financial Operating System for Nigerian SMEs — automating financial workflows, cash flow intelligence, and business decision support.
+
+**Impact:** Financial automation · SME intelligence · Cash flow analytics · Decision support  
+**Stack:** `Python` `FastAPI` `Machine Learning` `Financial Analytics`
 
 ---
 
-### 🔍 Blockchain Fraud Detection System
-Graph Neural Network-based fraud detection framework identifying suspicious transaction patterns and anomalies in financial networks.
+### 🤖 NaijaLeads AI
+AI-driven lead generation and business intelligence platform for key Nigerian industries — Manufacturing, Healthcare, Telecommunications, Real Estate, Banking, and Oil & Gas.
 
-**Highlights:** Transaction graph modeling · Anomaly detection · Fraud risk scoring · Explainable fraud insights  
+**Impact:** Lead scoring intelligence · Industry-specific insights · AI-powered business discovery  
+**Stack:** `Python` `FastAPI` `LLMs` `Vector Search`
+
+---
+
+### 🦠 Malaria CNN Detection
+**[github.com/Algebra101/Malaria-CNN-detection](https://github.com/Algebra101/Malaria-CNN-detection)**
+
+Convolutional Neural Network approach for diagnosing malaria from blood smear images — applying deep learning to a critical healthcare challenge in underserved regions.
+
+**Impact:** Medical image classification · Healthcare AI · Accessible diagnostics  
+**Stack:** `Python` `PyTorch` `CNN` `Computer Vision`
+
+---
+
+### 🔍 Blockchain Fraud Detection
+Graph Neural Network-based fraud detection framework identifying suspicious transaction patterns and anomalies in blockchain financial networks.
+
+**Impact:** Transaction graph modeling · Anomaly detection · Fraud risk scoring · Explainable insights  
 **Stack:** `Python` `PyTorch Geometric` `Graph Neural Networks` `Network Analysis`
 
 ---
 
 ### 📄 Semantic Resume Screener
-NLP-powered recruitment platform using semantic similarity techniques to improve candidate-job matching and reduce bias.
+**[github.com/Algebra101/semantic-resume-screener](https://github.com/Algebra101/semantic-resume-screener)**
 
-**Highlights:** Resume parsing · Semantic search · Candidate ranking · Bias reduction  
+NLP-powered recruitment platform using semantic similarity techniques to improve candidate-job matching and reduce hiring bias.
+
+**Impact:** Resume parsing · Semantic search · Candidate ranking · Bias reduction  
 **Stack:** `Python` `NLP` `Sentence Transformers` `Machine Learning`
 
 ---
 
-### 💳 FinCore AI
-Credit intelligence platform supporting lending decisions and financial inclusion in emerging markets.
+### 🧠 Hybrid Mental Health Prediction
+**[github.com/Algebra101/Hybrid_mental_health_prediction](https://github.com/Algebra101/Hybrid_mental_health_prediction)**
 
-**Highlights:** Alternative credit scoring · Risk assessment · Explainable AI · Financial behavior analytics  
-**Stack:** `Deep Learning` `Explainable AI` `Financial Analytics` `FastAPI`
+Hybrid ML model for mental health outcome prediction, combining multiple learning approaches for improved diagnostic accuracy.
+
+**Stack:** `Python` `Jupyter Notebook` `Scikit-learn` `Deep Learning`
+
+---
+
+### 📚 Semantic Search for CS Papers
+**[github.com/Algebra101/Semantic-Search-For-Computer-Science-papers](https://github.com/Algebra101/Semantic-Search-For-Computer-Science-papers)**
+
+Semantic search engine over computer science research papers — enabling intelligent literature discovery using NLP and vector embeddings.
+
+**Stack:** `Python` `Jupyter Notebook` `Sentence Transformers` `Vector Search`
+
+---
+
+### 📦 Udemy Archiver
+**[github.com/Algebra101/Udemy-Archiver](https://github.com/Algebra101/Udemy-Archiver)**
+
+Production-grade Python package that automates downloading and archiving Udemy course content — engineered for scalability, reliability, and minimal footprint.
+
+**Stack:** `Python` `CLI` `Automation`
 
 ---
 
@@ -71,20 +117,20 @@ Credit intelligence platform supporting lending decisions and financial inclusio
 
 - Graph Neural Networks (GNNs) for Fraud Detection
 - Explainable Artificial Intelligence (XAI)
-- Generative AI Applications
-- Agentic AI Systems and Architectures
+- Generative AI Applications and Architectures
+- Agentic AI Systems
 - AI for Financial Inclusion
 - Variational Autoencoders (VAEs)
 - Physics-Informed Neural Networks (PINNs)
 - Machine Learning for Emerging Markets
 
-**Current focus:** Developing intelligent fraud detection systems combining VAEs, GNNs, PINNs, and Explainable AI techniques for anomaly detection in financial ecosystems.
+**Current focus:** Building intelligent fraud detection systems combining VAEs, GNNs, PINNs, and Explainable AI techniques for anomaly detection in financial ecosystems.
 
 ---
 
 ## 🏅 Hackathons & Awards
 
-- 🥇 **Microsoft Learn Student Ambassador** — organizing events, mentoring students, driving AI adoption
+- 🥇 **Microsoft Learn Student Ambassador** — organizing workshops, mentoring students, driving AI adoption
 - 🥇 **Cowrywise Student Ambassador** — AI-powered financial solutions and community growth
 - 🥇 **Blackbox AI Ambassador**
 - 🖥️ **Squad Hackathon 3.0** — Participant
@@ -130,7 +176,7 @@ Credit intelligence platform supporting lending decisions and financial inclusio
 ## 📊 GitHub Analytics
 
 <p align="center">
-  <img width="48%" src="https://readme-stats-fork-mauve.vercel.app/api?username=Algebra101&show_icons=true&theme=tokyonight&count_private=true" />
+  <img width="48%" src="https://readme-stats-fork-mauve.vercel.app/api?username=Algebra329&show_icons=true&theme=tokyonight&count_private=true" />
   <img width="48%" src="https://github-readme-streak-stats-five-roan.vercel.app?user=Algebra329&theme=tokyonight" />
 </p>
 
@@ -151,16 +197,24 @@ Future articles and research notes will be published here.
 ## 🌍 Community Impact
 
 **Microsoft Learn Student Ambassador**
-- Organized AI and ML technical workshops
-- Mentored students across multiple universities
-- Promoted responsible AI adoption
+- Organized AI and ML technical workshops across Nigerian universities
+- Mentored students in AI, ML, and software engineering
+- Promoted responsible AI adoption and digital literacy
 - Supported student career development initiatives
 
 **Community Contributions**
 - Delivered hands-on training sessions for aspiring developers
-- Supported AI/ML adoption journeys across institutions
 - Built peer-learning communities around emerging technologies
 - Advocated for practical, applied technology education
+- Contributed to collaborative open-source and learning initiatives
+
+---
+
+## 🎯 Engineering Philosophy
+
+Successful AI systems require more than accurate models. Great AI products combine strong engineering foundations, reliable data pipelines, scalable architecture, explainable decision-making, and measurable business value.
+
+My goal is to build systems that move beyond experimentation and deliver real-world outcomes.
 
 ---
 
@@ -176,14 +230,18 @@ Future articles and research notes will be published here.
   </a>
   &nbsp;
   <a href="https://github.com/Algebra329">
-    <img src="https://img.shields.io/badge/GitHub-181717?logo=github&logoColor=white" />
+    <img src="https://img.shields.io/badge/GitHub%20(current)-181717?logo=github&logoColor=white" />
+  </a>
+  &nbsp;
+  <a href="https://github.com/Algebra101">
+    <img src="https://img.shields.io/badge/GitHub%20(previous%20account)-4a4a4a?logo=github&logoColor=white" />
   </a>
 </p>
 
 ---
 
-> *Building intelligent systems today for the challenges of tomorrow.*
+> *Building AI products today while growing into the research engineer I aspire to become.*
 
 ---
 
-<sub>⚠️ Note: My previous GitHub account is no longer accessible. All active projects and contributions are maintained on this profile.https://github.com/Algebra101</sub>
+<sub>⚠️ <strong>Note on GitHub accounts:</strong> My previous account <a href="https://github.com/Algebra101">@Algebra101</a> (57 repositories) is no longer accessible for commits. All active development and future work continues on this profile <a href="https://github.com/Algebra329">@Algebra329</a>.</sub>
